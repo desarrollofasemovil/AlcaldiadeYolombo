@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alcaldía Yolombó</string>
+
+    <string-array name="parametroconsulta">
+        <item>Seleccione</item>
+        <item>CC y/o NIT</item>
+        <item>Número Factura</item>
+    </string-array>
+</resources>
